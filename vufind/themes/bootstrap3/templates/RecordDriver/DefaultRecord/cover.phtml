@@ -1,0 +1,6 @@
+<!-- VUFINDLOCALONLY comments indicate lines modified for Wesleyan's Prison Education program VuFind instance which runs standalone on a Windows laptop with no network access
+Modified by Lori Stethers, Wesleyan University, 2023.05.26 -->
+
+<?php $alt = $this->link ? trim($this->driver->tryMethod('getTitle') ?? '') : ''; ?>
+<!-- VUFINDLOCALONLY - We don't have any way to get book covers from internet-based sources, so I'm removing all of the cover images code -->
+<?php if ($this->link && !empty($alt)): ?></a><?php endif; ?>
