@@ -8,3 +8,5 @@ Follow the installation and record harvesting instructions in "How to install Vu
 The files in this repository contain only those files changed from the default VuFind installation. Changes from the default file contents are indicated with comments beginning with "VUFINDLOCALONLY".
 
 This setup is not perfect and there may be better ways to accomplish these customizations in VuFind. I welcome your suggestions and questions, please contact me!
+
+For background information, see my ELUNA 2023 presentation, "Provide Offline Access to Research Materials for Incarcerated Students" https://drive.google.com/file/d/1QXSrCQwJAkt8e7LByBGSTWzCz0ETuOwx/view?usp=sharing
