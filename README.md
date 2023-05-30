@@ -1,6 +1,6 @@
 # vufind-standalone
 INSTALL: 
-Follow the installation and record harvesting instructions in "How to install VuFind for standalone catalog.pdf"
+Follow the installation and record harvesting instructions in the file "How to install VuFind for standalone catalog.pdf" included in this repository.
 
 ABOUT: 
 This repository provides instructions and customized files to install VuFind on a Windows PC, harvest Marc records from Alma, and then run as a standalone catalog not requiring any network access.
